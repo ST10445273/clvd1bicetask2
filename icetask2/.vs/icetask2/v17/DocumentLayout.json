@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jadey\\OneDrive\\Desktop\\2ND YEAR SEMESTER 2\\CLVD1B\\icetask2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1B179A-3FD1-416A-AF13-A932DCFD20FC}|icetask2\\icetask2.csproj|c:\\users\\jadey\\onedrive\\desktop\\2nd year semester 2\\clvd1b\\icetask2\\icetask2\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C1B179A-3FD1-416A-AF13-A932DCFD20FC}|icetask2\\icetask2.csproj|solutionrelative:icetask2\\local.settings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1B179A-3FD1-416A-AF13-A932DCFD20FC}|icetask2\\icetask2.csproj|c:\\users\\jadey\\onedrive\\desktop\\2nd year semester 2\\clvd1b\\icetask2\\icetask2\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C1B179A-3FD1-416A-AF13-A932DCFD20FC}|icetask2\\icetask2.csproj|solutionrelative:icetask2\\host.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1B179A-3FD1-416A-AF13-A932DCFD20FC}|icetask2\\icetask2.csproj|c:\\users\\jadey\\onedrive\\desktop\\2nd year semester 2\\clvd1b\\icetask2\\icetask2\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C1B179A-3FD1-416A-AF13-A932DCFD20FC}|icetask2\\icetask2.csproj|solutionrelative:icetask2\\function1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C1B179A-3FD1-416A-AF13-A932DCFD20FC}|icetask2\\icetask2.csproj|c:\\users\\jadey\\onedrive\\desktop\\2nd year semester 2\\clvd1b\\icetask2\\icetask2\\icetask2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C1B179A-3FD1-416A-AF13-A932DCFD20FC}|icetask2\\icetask2.csproj|solutionrelative:icetask2\\icetask2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "local.settings.json",
+              "DocumentMoniker": "C:\\Users\\jadey\\OneDrive\\Desktop\\2ND YEAR SEMESTER 2\\CLVD1B\\icetask2\\icetask2\\local.settings.json",
+              "RelativeDocumentMoniker": "icetask2\\local.settings.json",
+              "ToolTip": "C:\\Users\\jadey\\OneDrive\\Desktop\\2ND YEAR SEMESTER 2\\CLVD1B\\icetask2\\icetask2\\local.settings.json",
+              "RelativeToolTip": "icetask2\\local.settings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-08T09:56:58.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "host.json",
+              "DocumentMoniker": "C:\\Users\\jadey\\OneDrive\\Desktop\\2ND YEAR SEMESTER 2\\CLVD1B\\icetask2\\icetask2\\host.json",
+              "RelativeDocumentMoniker": "icetask2\\host.json",
+              "ToolTip": "C:\\Users\\jadey\\OneDrive\\Desktop\\2ND YEAR SEMESTER 2\\CLVD1B\\icetask2\\icetask2\\host.json",
+              "RelativeToolTip": "icetask2\\host.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-08T09:56:43.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "icetask2",
+              "DocumentMoniker": "C:\\Users\\jadey\\OneDrive\\Desktop\\2ND YEAR SEMESTER 2\\CLVD1B\\icetask2\\icetask2\\icetask2.csproj",
+              "RelativeDocumentMoniker": "icetask2\\icetask2.csproj",
+              "ToolTip": "C:\\Users\\jadey\\OneDrive\\Desktop\\2ND YEAR SEMESTER 2\\CLVD1B\\icetask2\\icetask2\\icetask2.csproj",
+              "RelativeToolTip": "icetask2\\icetask2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-08T09:39:41.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Function1.cs",
+              "DocumentMoniker": "C:\\Users\\jadey\\OneDrive\\Desktop\\2ND YEAR SEMESTER 2\\CLVD1B\\icetask2\\icetask2\\Function1.cs",
+              "RelativeDocumentMoniker": "icetask2\\Function1.cs",
+              "ToolTip": "C:\\Users\\jadey\\OneDrive\\Desktop\\2ND YEAR SEMESTER 2\\CLVD1B\\icetask2\\icetask2\\Function1.cs",
+              "RelativeToolTip": "icetask2\\Function1.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T09:38:23.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
